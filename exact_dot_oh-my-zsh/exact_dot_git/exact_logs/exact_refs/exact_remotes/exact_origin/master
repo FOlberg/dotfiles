@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 5bf7f9c83325a6cb2752e14ca01a574dbeef206e FOlberg MacOs <44179025+FOlberg@users.noreply.github.com> 1677844560 +0100	fetch --depth=1 origin: storing head
+5bf7f9c83325a6cb2752e14ca01a574dbeef206e 49d34d00cdaf132f318700398bf42120ff1af8e7 FOlberg MacOs <44179025+FOlberg@users.noreply.github.com> 1680863974 +0200	pull --quiet --rebase origin master: fast-forward
+49d34d00cdaf132f318700398bf42120ff1af8e7 5d3e86e2a48adf7a308773f8f1b725d187c7c5ef FOlberg MacOs <44179025+FOlberg@users.noreply.github.com> 1682576412 +0200	pull --quiet --rebase origin master: fast-forward
